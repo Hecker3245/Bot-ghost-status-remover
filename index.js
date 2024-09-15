@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["😁 I am Habibi!", "😍 79 Love me!", "🎧Music is Haram!", "😎 YALLA YALLA!!!". "😡 Don't be mean!", "😉I Will Ban You!", "👳‍♂️ We keep it Halal!", "﷽", "૮₍ ˃ ⤙ ˂ ₎ა", "🤬 FBI..FBI OPEN UP!!!", "💚 Listening to Hecker#7260", "👀 You doing Haram?"];
+const statusMessages = ["😁 I am Habibi!", "😍 79 Love me!", "🎧Music is Haram!", "😎 YALLA YALLA!!!". "😡 Don't be mean!", "😉I Will Ban You!", "👳‍♂️ We keep it Halal!", " ﷽ ", "૮₍ ˃ ⤙ ˂ ₎ა", "🤬 FBI..FBI OPEN UP!!!", "💚 Listening to Hecker#7260", "👀 You doing Haram?"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
